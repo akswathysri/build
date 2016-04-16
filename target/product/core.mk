@@ -26,6 +26,8 @@ PRODUCT_PACKAGES += \
     CertInstaller \
     DocumentsUI \
     DownloadProviderUi \
+    Email \
+    Exchange2 \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
